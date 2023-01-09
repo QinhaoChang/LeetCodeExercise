@@ -1,2 +1,2 @@
 # LeetCodeExercise
-EveryDat LeetCodeExcerise
+EveryDay LeetCodeExcerise Code 
